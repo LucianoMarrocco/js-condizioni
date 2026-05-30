@@ -1,6 +1,5 @@
 console.log("esercizio numero 4");
 
-//sono sincero al 19298494 tentativo ho controllato l'esercizio su bos ed ho capito dove sbagliavo
 
 let height = prompt("inseririsci l'altezza");
 let age = prompt("inserisci l'eta");
